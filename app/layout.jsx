@@ -1,4 +1,3 @@
-'use client'
 import Footer from '@/components/layout/footer';
 import Head from '@/components/layout/Head';
 import Navbar from '@/components/layout/Navbar';

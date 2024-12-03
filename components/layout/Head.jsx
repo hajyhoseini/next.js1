@@ -2,7 +2,7 @@ import React from 'react';
 
 const Head = () => {
     return (
-        <div>
+       
               <head>
       <link rel="shortcut icon" type="image/icon" href="/assets/logo/favicon.png"/>
    
@@ -35,7 +35,7 @@ const Head = () => {
    <link rel="stylesheet" href="/assets/css/responsive.css"/>
    
       </head>
-        </div>
+       
     );
 }
 
