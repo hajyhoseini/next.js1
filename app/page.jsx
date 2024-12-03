@@ -21,7 +21,7 @@ export default function Home() {
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore   magna aliqua. 
     </p>
-    <button className="welcome-btn" onclick="window.location.href='#'">contact us</button>
+    <button className="welcome-btn">contact us</button>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ export default function Home() {
           </div>
           <div className="col-md-2 col-sm-12">
             <div className="single-model-search text-center">
-              <button className="welcome-btn model-search-btn" onclick="window.location.href='#'">
+              <button className="welcome-btn model-search-btn">
                 search
               </button>
             </div>
