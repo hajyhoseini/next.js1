@@ -2,8 +2,6 @@
 import React from 'react';
 
 const Page = (props) => {
-	console.log(props);
-	throw new Error("Ooooops...!")
     return (
         <div>
             <div class="service-content">

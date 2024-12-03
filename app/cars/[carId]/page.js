@@ -7,7 +7,7 @@ return{
 }
 
 const Page = ({params,searchParams}) => {
-    console.log(params);
+   
     
     return (
         <div>
