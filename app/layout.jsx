@@ -1,4 +1,3 @@
-import Footer from '@/components/layout/footer';
 import Head from '@/components/layout/Head';
 import Navbar from '@/components/layout/Navbar';
 import {Inter} from 'next/font/google'
@@ -17,7 +16,6 @@ export default function RootLayout({ children }) {
     <Navbar/>
 <hr/>
         {children}
-      <Footer/>
       </body>
     </html>
   );
