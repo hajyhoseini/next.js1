@@ -18,7 +18,7 @@ const pathName = usePathname()
                   <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                       <i className="fa fa-bars"></i>
                   </button>
-                  <a className="navbar-brand" href="index.html">carvilla<span></span></a>
+                  <a className="navbar-brand" href="index.html">ابوالفضل حاجی حسینی<span></span></a>
 
               </div>
               <div className="collapse navbar-collapse menu-ui-design" id="navbar-menu">
